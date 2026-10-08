@@ -1,7 +1,7 @@
 {
-  "latest": "2.0.1",
-  "latest_url": "https://raw.githubusercontent.com/arzoobsc/rmpu-workstation-fw/main/binaries/fw_2.0.1.bin",
-  "rollback": "2.0.0",
-  "rollback_url": "https://raw.githubusercontent.com/arzoobsc/rmpu-workstation-fw/main/binaries/fw_2.0.0.bin",
+  "latest": "2.0.2",
+  "latest_url": "https://raw.githubusercontent.com/arzoobsc/rmpu-workstation-fw/main/binaries/fw_2.0.2.bin",
+  "rollback": "2.0.1",
+  "rollback_url": "https://raw.githubusercontent.com/arzoobsc/rmpu-workstation-fw/main/binaries/fw_2.0.1.bin",
   "notes": "Fixed Vin trimming and degree symbol"
 }
